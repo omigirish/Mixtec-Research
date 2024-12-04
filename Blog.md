@@ -51,7 +51,7 @@ The Mixtec and Aztec civilizations used a sophisticated calendar system that int
    
 The figure below depicts the day symbols: 
 
-![](https://lh4.googleusercontent.com/proxy/pGOttHPaRIeMgEUeUicuqRU18_RO2vzGo1Ui6k_csEasbN94Mr1DdPvsGs0SdyNolRFWdK6wj13AuiH3AApAjjXjP043iyT3jrUh0tMj4hqpy8U)
+![](./symbols.png)
 
 ### Year Symbol
 
@@ -67,7 +67,7 @@ Years are identified using symbols combined with numbers to form a unique design
 
 >The figure below shows a few examples:
 
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeO0lr_tzNg1qO8xBVAPns3r8KPolypO-0ecEyrh8bCklTTs66fKxPAzaGIaib-4SyHzQdW8OGe4Dt-7cWcHdgWFXbtzmqiHC2w-0fF0giaVbqvzL_tRMo-gyGKSPoo6_CvlK6acDjzgmEkWEymv03hyCYqfkIQ=nw?key=NzZ68Gqa-20rgajpkrZVjg)
+![](./years.png)
 
 ### Name Symbol
 In Mixtec culture, names were a unique combination of numerical prefixes and symbolic imagery that reflected personal identity and often held deep cultural or mythological significance.
