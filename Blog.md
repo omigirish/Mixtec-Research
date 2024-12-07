@@ -99,7 +99,7 @@ In order to identify the names and years correctly. We trains 3 classifiers.
 2. **Symbol Classifier**  
    This classifier will identify the symbol depicted in the image.
 
-3. **Year Counter**
+3. **Bead Counter**
    This classifier will count the number of beads in the image to identify the day number depicted in the images.
 
 > The input image will be subjected to the following workflow:
@@ -173,7 +173,7 @@ We used transfer learning for training all the three classifier mentioned above 
 
    ![](./symbol_confusion.png)
 
-3. **Year Classifier**
+3. **Bead Counter**
 
    > We achieved a test accuracy of 25% for the name-date/year classifier.
 
